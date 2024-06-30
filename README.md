@@ -10,9 +10,9 @@ I just finished the whole project that satisfies all stages, but after submissio
 
 1. Stage 1 : Simple card, check the directory `/src/components/card.tsx` for the card code.
 
-2. Stage 2 : User Card List, I have created 3 pages to list all data in different ways visit this pages `/constant` `/external` `/backend`. To see the code for all pages view the directory `/src/pages`
+2. Stage 2 : User Card List, I have created 3 pages to list all data in different ways, visit this pages `/constant` `/external` `/backend`. To see the code for all pages view the directory `/src/pages`
 
-3. Stage 3 : Load more button is already implemented to `/constant` and `/backend` see the code in the `src/pages`
+3. Stage 3 : Load more button is already implemented to `/constant` and `/backend` pages, see the code in the `src/pages`
 
 
 ### Front-end stack
