@@ -14,7 +14,7 @@ export function Navbar () {
                 />
                 <NavLink 
                     href="/constant"
-                    name={"Constant API"}
+                    name={"Constant Data"}
                     status = {pathname === "/constant" ? true : false}
                 />
                 <NavLink 
