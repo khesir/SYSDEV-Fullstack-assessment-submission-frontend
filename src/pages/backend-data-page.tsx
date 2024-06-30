@@ -23,7 +23,7 @@ export function BackendDataPage () {
   const fetchData = async () => {
       try {
           const res = await axios.get('http://localhost:3000/user')
-          setUsers(res.data.data)
+          setUsers(res.data.users[0])
       } catch (error) {
           console.log(error)
       }
